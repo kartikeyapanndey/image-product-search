@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Upload, Button, Card, Row, Col, message } from 'antd';
-import { UploadOutlined } from '@ant-design/icons';
 import axios from 'axios';
 
 const { Dragger } = Upload;
