@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sample Product 1",
+    "description": "A red t-shirt with logo",
+    "price": 19.99,
+    "imageUrl": "https://via.placeholder.com/150",
+    "tags": ["t-shirt", "red", "clothing"],
+    "category": "Apparel"
+  },
+  {
+    "name": "Sample Product 2",
+    "description": "Blue jeans",
+    "price": 49.99,
+    "imageUrl": "https://via.placeholder.com/150",
+    "tags": ["jeans", "blue", "clothing"],
+    "category": "Apparel"
+  }
+]
